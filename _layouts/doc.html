@@ -7,7 +7,9 @@
 </header>
 
 <div class="container">
+    {% if page.repo %}
     {% include repository_button.html %}
+    {% endif %}
     <section id="main_content">
         {{ content }}
     </section>
