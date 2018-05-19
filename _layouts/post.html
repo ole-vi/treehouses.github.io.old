@@ -7,7 +7,7 @@
 </header>
 
 <div class="container">
-    <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • <a href="{{ site.github_url }}/{{ page.author }}">{{ page.author }}</a>{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     <section id="main_content">
         {{ content }}
     </section>
