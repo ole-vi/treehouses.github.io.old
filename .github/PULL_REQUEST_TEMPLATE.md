@@ -21,8 +21,8 @@
 **Standard way**:
 
 Prerequisites:
-* Docker
-* `docker-compose`
+* [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce)
+* [`docker-compose`](https://docs.docker.com/compose/install/#install-compose)
 
 Command:
 
