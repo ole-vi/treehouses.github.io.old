@@ -4,6 +4,7 @@ layout: post
 author: mappuji
 ---
 
+
 <center><img src="{{ site.url }}/assets/images/devopsdayjkt18.jpg" alt="DevOpsDay Jakarta 18" style="width: 400px;"/></center><br>
 
 Last April we speak at DevOpsDay Jakarta 2018 where we talk about our progress in packaging Learning Management System (LMS) in Raspberry Pi and how we leverage DevOps principle while developing the solution rapidly.
