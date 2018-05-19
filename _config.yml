@@ -61,3 +61,5 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+
+github_url: https://github.com
