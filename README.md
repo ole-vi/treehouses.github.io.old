@@ -3,7 +3,7 @@ http://treehouses.io
 
 ## How to run
 
-Prerequisite:
+Prerequisites:
 * Docker
 * `docker-compose`
 

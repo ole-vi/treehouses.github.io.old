@@ -20,7 +20,7 @@
      
 **Standard way**:
 
-Prerequisite:
+Prerequisites:
 * Docker
 * `docker-compose`
 
