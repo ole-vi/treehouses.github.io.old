@@ -1,0 +1,9 @@
+version: "3.4"
+services:
+  treehouses-io:
+    image: jekyll/jekyll:3.7.3
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
+    command: ["jekyll", "serve"]
