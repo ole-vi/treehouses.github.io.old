@@ -4,7 +4,7 @@ layout: post
 author: mappuji
 ---
 
-<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/92NsrdcgoaAikS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AbdurrachmanMappuji1/deploy-moodle-in-raspberry-pi-with-docker-and-remote-moodle-moot-philippines-2018-presentation" title="Deploy Moodle in Raspberry Pi with Docker and Remote . Moodle Moot Philippines 2018 Presentation" target="_blank">Deploy Moodle in Raspberry Pi with Docker and Remote . Moodle Moot Philippines 2018 Presentation</a> </strong> from <strong><a href="https://www.slideshare.net/AbdurrachmanMappuji1" target="_blank">Mappuji Abdurrachman</a></strong> </div></center>
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/92NsrdcgoaAikS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AbdurrachmanMappuji1/deploy-moodle-in-raspberry-pi-with-docker-and-remote-moodle-moot-philippines-2018-presentation" title="Deploy Moodle in Raspberry Pi with Docker and Remote . Moodle Moot Philippines 2018 Presentation" target="_blank">Deploy Moodle in Raspberry Pi with Docker and Remote . Moodle Moot Philippines 2018 Presentation</a> </strong> by <strong><a href="https://www.slideshare.net/AbdurrachmanMappuji1" target="_blank">Mappuji Abdurrachman</a></strong> </div></center>
 
 Last April we speak at MoodleMoot Philippines 2018 where we talk about our progress in packaging Learning Management System (LMS) especially Moodle and introducing [treehouses/remote](https://github.com/treehouses/remote/issues) to the audience.
 
@@ -14,13 +14,13 @@ The story was started from a small project to setup a simple LMS in Madagascar, 
 
 ***
 
-Okay, lets dive deeper to the content of my talk.
+Okay, lets dive deeper into the content of my talk.
 
 ### The problem
 
-Deploy Moodle in Raspberry Pi is easy, even more easy if you deploy it in `amd64`. We can just deploy it directly in the machine by installing MySQL or PostgreSQL and the Moodle with some web server via Nginx or Apache, but we choose another path.
+Deploy Moodle on Raspberry Pi is easy, it is even easier if you deploy it on `amd64`. We can just deploy it directly on the machine by installing MySQL or PostgreSQL and the Moodle with some web server via Nginx or Apache, but we choose another path.
 
->We want to build a platform where people can deploy various educational apps in single board compute
+>We want to build a platform where people can deploy various educational apps in single board computer
 
 Since the beginning we want to build a platform where people can deploy various educational apps in single board computer. One of them is is Moodle, but we also want to deploy another application like our own LMS called [open-learning-exchange/planet](https://github.com/open-learning-exchange/planet/).
 
