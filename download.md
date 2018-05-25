@@ -10,10 +10,10 @@ We have always stable Treehouses-powered Raspberry Pi Image for your use where y
 
 The main features of the image are
 * Docker-ready
-* Some pre-installed educational apps
+* Some educational apps are few commands away
   * [Planet](https://github.com/open-learning-exchange/planet/)
-  * Moodle
-  * Kolibri
+  * [Moodle](https://github.com/treehouses/moodole)
+  * [Kolibri](https://github.com/treehouses/kolibri)
 * Bluetooth Remote Server, and many more 😀
 
 ## Getting Other Images
