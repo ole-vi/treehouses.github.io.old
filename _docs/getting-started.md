@@ -6,7 +6,7 @@ repo: builder
 docs: true
 ---
 
-So you're pirate who wants to leverage other people result and just want to have something that runs perfectly out of the box? This is the getting started guide to running [treehouses](https://github.com/treehouses) Raspberry Pi Image on your Raspberry Pi.
+Do you want a Raspberry Pi image that runs perfectly out of the box with Docker and Educational Application? This is the getting started guide to running [treehouses](https://github.com/treehouses) Raspberry Pi Image on your Raspberry Pi.
 
 This guide will demonstrate the process with Raspberry Pi 3B and it will be specific to macOS, but it should be applicable to other operating systems such as Linux distribution or Windows.
 
