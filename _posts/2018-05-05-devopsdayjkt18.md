@@ -3,8 +3,9 @@ title: treehouses.io in DevOpsDay Jakarta 2018
 layout: post
 author: mappuji
 ---
-
-<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/HxarhpE0Fi5kbi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AbdurrachmanMappuji1/devopsdayjkt2018-devops-practice-in-nonprofit-open-learning-exchange-treehouses" title="DevOpsDayJkt2018 - DevOps Practice in Nonprofit | Open Learning Exchange | Treehouses" target="_blank">DevOpsDayJkt2018 - DevOps Practice in Nonprofit | Open Learning Exchange | Treehouses</a> </strong> by <strong><a href="https://www.slideshare.net/AbdurrachmanMappuji1" target="_blank">Mappuji Abdurrachman</a></strong> </div></center>
+<center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3BrvezTU3yPVuR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DevOpsDaysJKT/devops-practice-in-nonprofit-abdurrachman-mappuji" title="DevOps Practice in Nonprofit - Abdurrachman Mappuji" target="_blank">DevOps Practice in Nonprofit - Abdurrachman Mappuji</a> </strong> from <strong><a href="https://www.slideshare.net/DevOpsDaysJKT" target="_blank">DevOpsDaysJKT</a></strong> </div>
+</center>
 
 Last April we speak at DevOpsDay Jakarta 2018 where we talk about our progress in packaging Learning Management System (LMS) in Raspberry Pi and how we leverage DevOps principle while developing the solution rapidly.
 
