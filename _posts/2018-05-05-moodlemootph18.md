@@ -4,7 +4,7 @@ layout: post
 author: mappuji
 ---
 
-<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/92NsrdcgoaAikS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AbdurrachmanMappuji1/deploy-moodle-in-raspberry-pi-with-docker-and-remote-moodle-moot-philippines-2018-presentation" title="Deploy Moodle in Raspberry Pi with Docker and Remote . Moodle Moot Philippines 2018 Presentation" target="_blank">Deploy Moodle in Raspberry Pi with Docker and Remote . Moodle Moot Philippines 2018 Presentation</a> </strong> by <strong><a href="https://www.slideshare.net/AbdurrachmanMappuji1" target="_blank">Mappuji Abdurrachman</a></strong> </div></center>
+<embed src="https://assets.moodlemoot.org/sites/41/20180502090135/RASPBERRY-MOODLE-Deploying-Moodle-in-Raspberry-Pi-in-the-field-for-Open-Learning-Exchange.pdf" width="500" height="500">
 
 Last April we speak at MoodleMoot Philippines 2018 where we talk about our progress in packaging Learning Management System (LMS) especially Moodle and introducing [treehouses/remote](https://github.com/treehouses/remote/issues) to the audience.
 
