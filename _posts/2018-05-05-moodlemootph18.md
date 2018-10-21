@@ -4,7 +4,7 @@ layout: post
 author: mappuji
 ---
 
-<embed src="https://assets.moodlemoot.org/sites/41/20180502090135/RASPBERRY-MOODLE-Deploying-Moodle-in-Raspberry-Pi-in-the-field-for-Open-Learning-Exchange.pdf" width="500" height="500">
+<center><embed src="https://assets.moodlemoot.org/sites/41/20180502090135/RASPBERRY-MOODLE-Deploying-Moodle-in-Raspberry-Pi-in-the-field-for-Open-Learning-Exchange.pdf" width="300" height="300"></center>
 
 Last April we speak at MoodleMoot Philippines 2018 where we talk about our progress in packaging Learning Management System (LMS) especially Moodle and introducing [treehouses/remote](https://github.com/treehouses/remote/issues) to the audience.
 
