@@ -17,7 +17,7 @@ We inspired by our systems administrator and operator in the field who more-like
 Requirements:
 * Android Phone
   - [ ] Install [treehouses/remote](https://github.com/treehouses/remote/releases) app
-* RaspberryPi 3B or higher (any version with bluetooth)
+* RaspberryPi with a Bluetooth and Wifi (this experiment tested on 3B, zero W (and WH), 3B+, and 3A+)
   - [ ] Install [treehouses/builder][GETTING_STARTED] image (in this example we use treehouses image version `75`)
 * A laptop
   - [ ] Install [Etcher](https://www.balena.io/etcher/)
