@@ -1,7 +1,7 @@
 ---
 title: treehouses.io in DevOpsDay Jakarta 2018
 layout: post
-author: empeje
+author: mappuji
 ---
 <center>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3BrvezTU3yPVuR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DevOpsDaysJKT/devops-practice-in-nonprofit-abdurrachman-mappuji" title="DevOps Practice in Nonprofit - Abdurrachman Mappuji" target="_blank">DevOps Practice in Nonprofit - Abdurrachman Mappuji</a> </strong> from <strong><a href="https://www.slideshare.net/DevOpsDaysJKT" target="_blank">DevOpsDaysJKT</a></strong> </div>
