@@ -21,7 +21,7 @@ Requirements:
   - [ ] Install [treehouses/builder][GETTING_STARTED] image (in this example we use treehouses image version `75`)
 * A laptop
   - [ ] Install [Etcher](https://www.balena.io/etcher/)
-  - [ ] Install Tor Browser (we have a fun demonstration)
+  - [ ] Install [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) (we have a fun demonstration)
 * Wifi Access point with good internet connection
 
 Once you're done you can do the following steps
