@@ -42,6 +42,7 @@ Vagrant.configure(2) do |config|
 
     # Start docker on every startup
     io.vm.provision "shell", run: "always", inline: <<-SHELL
+      cd /vagrant
       docker-compose up -d
     SHELL
   end
