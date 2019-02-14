@@ -29,9 +29,10 @@ Vagrant.configure(2) do |config|
       vb.memory = "666"
     end
 
-    # Port expose for docker inside vagrant (2300:2300 = CouchDB 3100:3100 = App)
+    # Port expose for docker inside vagrant
     io.vm.network "forwarded_port", guest: 4000, host: 4000, auto_correct: true
     io.vm.network "forwarded_port", guest: 22, host: 2224, host_ip: "0.0.0.0", id: "ssh", auto_correct: true
+    io.vm.network "forwarded_port", guest: 9050, host: 9050, auto_correct: true
 
     # Prevent TTY Errors (copied from laravel/homestead: "homestead.rb" file)... By default this is "bash -l".
     io.ssh.shell = "bash -c 'BASH_ENV=/etc/profile exec bash'"
