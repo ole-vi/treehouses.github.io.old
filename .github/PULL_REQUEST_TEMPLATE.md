@@ -32,6 +32,12 @@ Run the following command in you machine
 docker-compose up
 ```
 
+or (recommended for Windows user)
+
+```bash
+vagrant up
+```
+
 Then open `localhost:4000` on your browser.
 
 ## GitHub issue number
