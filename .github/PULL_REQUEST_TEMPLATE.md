@@ -23,6 +23,7 @@
 Prerequisites:
 * [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce)
 * [`docker-compose`](https://docs.docker.com/compose/install/#install-compose)
+* Virtualbox and Vagrant for Vagrant user (recommended if you're Windows)
 
 Command:
 
